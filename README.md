@@ -1,6 +1,6 @@
-# Bootstrap com Cypress & Cucumber
+# Bootstrap para projeto de automação de testes com Cypress & Cucumber
 
-Starter de projeto (do zero!) com Cypress & Cucumber. Para instalar esses componentes em um projeto já existente, copiar arquivo `cypress.json`, verificar pacotes no arquivo `package.json` e replicar mesma estrutura de pastas.
+Starter de projeto (do zero!) de automação de testes com Cypress & Cucumber. Para instalar esses componentes em um projeto já existente, copiar arquivo `cypress.json`, verificar pacotes no arquivo `package.json` e replicar mesma estrutura de pastas.
 
 ## Pré-requisitos
 
@@ -11,11 +11,11 @@ Starter de projeto (do zero!) com Cypress & Cucumber. Para instalar esses compon
 
 * Via HTTPS
 
-`git clone https://gitlab.solutis.digital/devops/bootstrappers/cypress.git`
+`git clone https://github.com/axcosta/cypress-cucumber-bootstrapper.git`
 
 * Via SSH
 
-`git clone git@gitlab.solutis.digital:devops/bootstrappers/cypress.git`
+`git clone git@github.com:axcosta/cypress-cucumber-bootstrapper.git`
 
 ## Atualizar projeto
 
