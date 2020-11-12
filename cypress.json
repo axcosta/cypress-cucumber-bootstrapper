@@ -1,0 +1,12 @@
+{
+   "$schema": "https://on.cypress.io/cypress.schema.json",
+   "testFiles": ["test/acceptance/**/*.feature"],
+   "video": false,
+   "integrationFolder": "./",
+   "fixturesFolder": "test/fixtures",
+   "screenshotsFolder": "test/screenshots",
+   "videosFolder": "test/videos",
+   "supportFile": "test/support/index.js",
+   "pluginsFile": "test/plugins/index.js",
+   "nodeVersion": "bundled"
+}
